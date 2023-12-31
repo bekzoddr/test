@@ -6,8 +6,6 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Blardm ko'tligini";
-  gif.src =
-    "https://media1.tenor.com/m/nCfArwGenA0AAAAd/the-rock-raising-eyebrow.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
