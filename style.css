@@ -15,9 +15,8 @@ body {
 }
 
 .gif {
-    position: relative;
-    right: 100px;
-    /* margin-right: auto; */
+    margin-left: 100px;
+    margin-right: 100px;
     height: 50%;
     width: 50%;
 }
